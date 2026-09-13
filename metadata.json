@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora",
+  "description": "Calculadora con conversiones de unidades y divisas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
